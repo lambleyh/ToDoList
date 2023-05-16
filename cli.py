@@ -1,9 +1,7 @@
 import functions as fn
 import time
 
-filename = 'todos.txt'
-with open(filename,'r') as file:
-    todos = file.readlines()
+todos = fn.read_todos()
 
 now = time.strftime("%d.%m.%Y %H:%M:%S")
 print("It is", now)
@@ -48,7 +46,6 @@ while True:
     else:
         print("Please enter a valid command!")
 
-with open(filename,'w') as file:
-    file.writelines(todos)
+fn.write_todos(todos)
 
 print("See you next time!")
