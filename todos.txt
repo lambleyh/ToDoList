@@ -1,3 +1,5 @@
 bathe
 play the guitar
 eat supper
+get better at Python
+test
