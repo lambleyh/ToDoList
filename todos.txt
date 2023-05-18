@@ -1,5 +1,7 @@
-bathe
-play the guitar
-eat supper
-get better at Python
-test
+Bathe
+Play the guitar
+Eat supper
+Get better at python
+Test
+Test2.5
+jdn
