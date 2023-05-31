@@ -1,7 +1,4 @@
 Bathe
 Play the guitar
-Eat supper
 Get better at python
-Test
-Test2.5
-jdn
+Take a shower
