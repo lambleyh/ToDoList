@@ -1,4 +1,3 @@
 Bathe
 Play the guitar
 Get better at python
-Take a shower
